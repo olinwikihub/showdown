@@ -1,6 +1,6 @@
-# Showdown
+[![Build Status](https://travis-ci.org/showdownjs/showdown.svg?branch=master)](https://travis-ci.org/showdownjs/showdown)
 
-A JavaScript port of Markdown
+**Showdown**: An extensible Markdown to HTML converter written in Javascript.
 
 ## Note
 
@@ -13,7 +13,6 @@ A JavaScript port of Markdown
 ## Original Attributions
 
 Showdown Copyright (c) 2007 John Fraser.
-<http://www.attacklab.net/>
 
 Original Markdown Copyright (c) 2004-2005 John Gruber
 <http://daringfireball.net/projects/markdown/>
